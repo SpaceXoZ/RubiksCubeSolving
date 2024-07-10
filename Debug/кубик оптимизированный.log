@@ -1,0 +1,3 @@
+﻿  Optimised.cpp
+C:\Users\User\Desktop\кубик оптимизированный\Optimised.cpp(424): warning C4715: Cube::pif_paf: значение возвращается не при всех путях выполнения
+  кубик оптимизированный.vcxproj -> C:\Users\User\Desktop\кубик оптимизированный\Debug\кубик оптимизированный.exe

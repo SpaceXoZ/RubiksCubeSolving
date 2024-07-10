@@ -1,0 +1,17 @@
+﻿  Optimised.cpp
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp___glutInitWithExit в функции glutInit_ATEXIT_HACK.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitDisplayMode в функции main.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitWindowPosition в функции main.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitWindowSize в функции main.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutMainLoop в функции main.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp___glutCreateWindowWithExit в функции glutCreateWindow_ATEXIT_HACK.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutPostRedisplay в функции "void __cdecl specialKeys(int,int,int)" (?specialKeys@@YAXHHH@Z).
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSwapBuffers в функции "void __cdecl display(void)" (?display@@YAXXZ).
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutDisplayFunc в функции main.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutReshapeFunc в функции main.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutKeyboardFunc в функции main.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutTimerFunc в функции "void __cdecl timer(int)" (?timer@@YAXH@Z).
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSpecialFunc в функции main.
+Optimised.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSolidCube в функции "public: void __cdecl Cube::draw(void)" (?draw@Cube@@QEAAXXZ).
+C:\Users\User\Desktop\кубик оптимизированный\Libraries\lib\glut32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\Desktop\кубик оптимизированный\x64\Debug\кубик оптимизированный.exe : fatal error LNK1120: неразрешенных внешних элементов: 14
